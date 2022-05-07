@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Manage_Ga">Manage Garbage</string>
+    <string name="app_name">Waste_Master-Two</string>
+    <string name="bin_id">Waste Master</string>
+    <string name="bin_idcreate">Create Bin</string>
+    <string name="bt_id1">User Management</string>
+    <string name="btact_id1">Create Bin</string>
+    <string name="btact_id2">Create Driver</string>
+    <string name="btact_id3">User Details</string>
+    <string name="btact_id4">Work Reports</string>
+    <string name="btn1">Count Bin</string>
+    <string name="btn2">Total Bin</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnDeleteEP">Delete</string>
+    <string name="btnEditEP">Edit</string>
+    <string name="btnSearch">Search</string>
+    <string name="btnUpdateProfile">Update</string>
+    <string name="btn_select">Open Googal Map</string>
+    <string name="chk1">Food /Bio Waste.</string>
+    <string name="chk2">Plastic / Polythene.</string>
+    <string name="chk3">Glass / Non-recyclable waste.</string>
+    <string name="createbin">Create Bin</string>
+    <string name="deleteBin">Delete Bin</string>
+    <string name="deletebin1">Delete Bin</string>
+    <string name="editBin">Edit Bin</string>
+    <string name="editBin1">Edit Bin</string>
+    <string name="editBinText">City</string>
+    <string name="editBinbutton">Edit Bin</string>
+    <string name="editBinlocation">Location</string>
+    <string name="editBinlord">Lord Type</string>
+    <string name="editbinClening">Cleaning Period</string>
+    <string name="etDobEP">Date of Birth</string>
+    <string name="etDobPM">Date of Birth</string>
+    <string name="etPasswordEP">Password</string>
+    <string name="etPasswordPM">Password</string>
+    <string name="etUserNameEP">User Name</string>
+    <string name="etUserNamePM">User Name</string>
+    <string name="location">Location</string>
+    <string name="managegarbage">Manage Garbage</string>
+    <string name="profilemanagement">Profile Management</string>
+    <string name="radioButton">Male</string>
+    <string name="radioButton2">Female</string>
+    <string name="radioButton3">Male</string>
+    <string name="radioButton4">Female</string>
+    <string name="route_M">Route Management</string>
+    <string name="search">Search City</string>
+    <string name="t1">Category</string>
+    <string name="t2">No Of Bin</string>
+    <string name="textView2">Edit Profile</string>
+    <string name="textView3">Gender</string>
+    <string name="textView4">Gender</string>
+    <string name="totalbincount">Total Bin Count</string>
+    <string name="tx2_name">Lord Type</string>
+    <string name="tx3_name">Cleaning Period</string>
+    <string name="tx_name">City</string>
+    <style name="Theme.Waste_MasterTwo" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">#19D604</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
