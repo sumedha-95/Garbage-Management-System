@@ -102,6 +102,20 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/chk3" />
 
+        <Button
+            android:id="@+id/btnsubmitnew1"
+            android:layout_width="312dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="92dp"
+            android:backgroundTint="#1ee605"
+            android:hint="@string/btnsubmitnew1"
+            android:text="@string/btnsubmitnew1"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFCFC"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/chk3" />
+
         <LinearLayout
             android:id="@+id/linearLayout"
             android:layout_width="wrap_content"
@@ -147,6 +161,7 @@
             app:layout_constraintTop_toTopOf="@+id/textView4"
             app:layout_constraintVertical_bias="1.0"
             app:srcCompat="@drawable/home2" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <LinearLayout

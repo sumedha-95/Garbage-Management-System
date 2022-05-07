@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GarbageAPP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1845" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1845" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_addcomplain.xml" value="0.1875" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_main.xml" value="0.213768115942029" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_mycomplain.xml" value="0.1393110435663627" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_myprofile.xml" value="0.22" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_myprofile2.xml" value="0.1" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_myprofile3.xml" value="0.19519927536231885" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_registration.xml" value="0.2513586956521739" />
+        <entry key="..\:/GarbageAPP/app/src/main/res/layout/activity_updateprofile.xml" value="0.14666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

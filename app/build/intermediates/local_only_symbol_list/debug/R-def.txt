@@ -28,6 +28,7 @@ id btnDeleteEP
 id btnEditEP
 id btnSearch
 id btnUpdateProfile
+id btnsubmitnew1
 id chk1
 id chk2
 id chk3
@@ -101,6 +102,8 @@ string btnEditEP
 string btnSearch
 string btnUpdateProfile
 string btn_select
+string btnsubmitnew
+string btnsubmitnew1
 string chk1
 string chk2
 string chk3

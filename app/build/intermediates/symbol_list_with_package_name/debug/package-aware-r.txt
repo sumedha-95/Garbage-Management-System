@@ -2630,6 +2630,7 @@ id btnDeleteEP
 id btnEditEP
 id btnSearch
 id btnUpdateProfile
+id btnsubmitnew1
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3309,6 +3310,8 @@ string btnEditEP
 string btnSearch
 string btnUpdateProfile
 string btn_select
+string btnsubmitnew
+string btnsubmitnew1
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
